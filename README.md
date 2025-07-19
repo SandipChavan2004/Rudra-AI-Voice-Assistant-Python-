@@ -84,5 +84,5 @@ Audio Playback	                                    pydub, playsound
 ## 🙌 Contribution
 Pull requests are welcome! Please fork the repo and submit your improvements or ideas
 
-## Created by Sandip Chavan
+## ❤️ Created by Sandip Chavan
 Project: Rudra – Personal AI Assistant
